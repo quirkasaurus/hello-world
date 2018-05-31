@@ -25,3 +25,6 @@ duplicators...
 Computer operations included:
 Honeywell 25000, etc... etc...
 
+clam, duck, fish, girl, mink, rock, tusk, wham
+
+
